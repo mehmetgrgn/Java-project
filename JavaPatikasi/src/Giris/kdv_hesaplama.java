@@ -16,5 +16,5 @@ public class kdv_hesaplama {
         System.out.println("KDV Oranı : " + kdvOran);
         System.out.println("KDV Tutarı : " + kdvTutar);
         System.out.println("KDV'li Tutarı : " + kdvliTutar);
-}
+    }
 }
